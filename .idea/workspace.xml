@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4532ca1-8ec0-4368-84ab-9999df1b71e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Django_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/course/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/course/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/course/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/course/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/course/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/course/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/course/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/course/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/doc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/doc/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/doc/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/doc/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/doc/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/doc/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/doc/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/doc/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/news/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/news/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/news/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/news/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/news/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/news/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/news/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/news/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/apps/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/settings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/settings/dev.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/css/authPro/auth.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/css/base/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/css/base/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/css/base/side.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/css/base/sweetalert.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/css/course/course-detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/css/course/course.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/css/doc/docDownload.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/css/news/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/css/news/news-detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/css/news/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/2018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/20181105200827939103842.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/WechatIMG153.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/avatar.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/banner_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/captcha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/dianshang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/english.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/jichujiaochen.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/linux.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/python_advanced.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/python_function.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/python_gui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/python_web.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/ui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/wechat2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/youxi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/images/zimeiti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/js/base/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/js/base/fsweetalert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/js/base/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/js/base/messageTestDemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/js/base/sweetAlertDemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/js/base/sweetalert.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/js/commons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/templates/base/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/templates/base/base2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/templates/course/course.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/templates/course/course_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/templates/doc/docDownload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/templates/news/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/templates/news/news_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/templates/news/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/templates/users/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/templates/users/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django_Project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/water.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Django_Project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1atyh36UhggR1mO5XUiKlSdhf7f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mr.Ye\Desktop\Django_Project\Django_Project\templates" />
+      <recent name="C:\Users\Mr.Ye\Desktop\Django_Project\Django_Project\static" />
+      <recent name="C:\Users\Mr.Ye\Desktop\Django_Project\Django_Project" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mr.Ye\Desktop\Django_Project\Django_Project\apps\doc" />
+      <recent name="C:\Users\Mr.Ye\Desktop\Django_Project\Django_Project\apps\news" />
+      <recent name="C:\Users\Mr.Ye\Desktop\Django_Project\Django_Project\apps\course" />
+      <recent name="C:\Users\Mr.Ye\Desktop\Django_Project\Django_Project\apps\users" />
+      <recent name="C:\Users\Mr.Ye\Desktop\Django_Project\Django_Project\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Django_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver 0:80" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Django_Project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Django_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Django_Project.settings" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://root@101.200.199.85:22/root/.virtualenvs/Django_Project/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.Django_Project" />
+      <item itemvalue="Python.manage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4532ca1-8ec0-4368-84ab-9999df1b71e7" name="Default Changelist" comment="" />
+      <created>1587569300261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587569300261</updated>
+      <workItem from="1587569304578" duration="11172000" />
+      <workItem from="1588140881356" duration="16242000" />
+      <workItem from="1588215732764" duration="14630000" />
+      <workItem from="1589188153345" duration="40000" />
+      <workItem from="1592055814304" duration="9366000" />
+      <workItem from="1592291198161" duration="913000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Deployment" timestamp="1592055890792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1592055890792" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592199976177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592199976177" />
+    <state x="695" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592228264042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="695" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592228264042" />
+    <state x="468" y="225" width="838" height="688" key="#xdebugger.evaluate" timestamp="1588229734655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="468" y="225" width="838" height="688" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1588229734655" />
+    <state x="823" y="284" key="FileChooserDialogImpl" timestamp="1592292087434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="823" y="284" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592292087434" />
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom" timestamp="1592199978854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592199978854" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587691267872" />
+    <state width="1877" height="272" key="GridCell.Tab.0.center" timestamp="1592199978854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592199978854" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587691267870" />
+    <state width="1877" height="272" key="GridCell.Tab.0.left" timestamp="1592199978854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592199978854" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587691267868" />
+    <state width="1877" height="272" key="GridCell.Tab.0.right" timestamp="1592199978854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592199978854" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587691267870" />
+    <state width="1392" height="346" key="GridCell.Tab.1.bottom" timestamp="1588640288619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588640288619" />
+    <state width="1392" height="346" key="GridCell.Tab.1.center" timestamp="1588640288618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588640288618" />
+    <state width="1392" height="346" key="GridCell.Tab.1.left" timestamp="1588640288618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588640288618" />
+    <state width="1392" height="346" key="GridCell.Tab.1.right" timestamp="1588640288619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1392" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588640288619" />
+    <state x="314" y="201" width="998" height="708" key="SettingsEditor" timestamp="1592292054227">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="314" y="201" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592292054227" />
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587608412338" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1592291199988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592291199988" />
+    <state x="838" y="251" key="ftp.server.browser" timestamp="1592055878149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="251" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1592055878148" />
+    <state x="1150" y="306" width="672" height="678" key="search.everywhere.popup" timestamp="1588229528834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1150" y="306" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588229528834" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Django_Project$manage.coverage" NAME="manage Coverage Results" MODIFIED="1592199978845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
